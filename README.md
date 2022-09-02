@@ -1,4 +1,4 @@
-# Cinematicket
+# BLogeamir.ir
 
-> 🎬Scraping box office of Cinematicket website
+> 🎬 Tutorial codes
 
